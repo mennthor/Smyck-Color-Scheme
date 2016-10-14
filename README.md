@@ -12,6 +12,8 @@ call plug#end()
 
 in our '~/.config/nvim/init.vim'.
 
+P.S.: This is a really cool theme, I'm using in all over the system. **Thanks to the creators.**
+
 ## Original README
 
 This is a color scheme suitable for Terminal.app, iTerm2, Vim, gVim,
